@@ -8,6 +8,10 @@
 <div id="badges"align="center" >
 <img src="https://komarev.com/ghpvc/?username=VBoiko1&style=flat-square&color=blue" alt=""/>
 <h1>
-  Hi,everyone!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi,everyone!🖐
 </h1>
+<div align="center">
+ <img src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="600" height="300"/>
+</div>
+### :man_technologist: 
+  О себе : Я начинающий тестировщик 
