@@ -12,6 +12,33 @@
 </h1>
 <div align="center">
  <img src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="600" height="300"/>
+
+
+
+      
+   ### :man_technologist: 
+   
+  О себе :
+  
+  Я начинающий тестировщик, обучаюсь в крупнейшем онлайн-университете Skypro по специальности QA инженер.
+  За время обучения освоил:
+  -  Навыки работы с инструментами: Chrome DevTools, Postman, SOAP UI, Jira, Qase.io, Confluence, pgAdmin,
+- Есть опыт создания тестовой документации: чек-листы/чит-листы (Sitechco.ru), тест-кейсы (Qase.io) и баг-репорты (Jira),
+- Имею практику функционального, UX, UI, интеграционного, Smoke, регрессионного тестирования,
+- Присутствуют практические навыки работы с SQL.
+
+  </div> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" title="confluence" alt="confluence" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira"  width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="chrome" alt="chrome"  width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" alt="trello"  width="40" height="40"/>&nbsp;
+     <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo"/>
 </div>
-### :man_technologist: 
-  О себе : Я начинающий тестировщик 
+
+
+<div>
+ <div id="header" align="left">
+  Вот некоторые важные артефакты из моих проектов в качестве студента QA.👨‍🎓
+  
+1. [***Jira***] (https://drive.google.com/drive/folders/1xVQ8Anzx18u406h4D3qyYRjM1AEtkrnr?usp=sharing "ghjks")
