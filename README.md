@@ -41,4 +41,18 @@
  <div id="header" align="left">
   Вот некоторые важные артефакты из моих проектов в качестве студента QA.👨‍🎓
   
-1. [***Jira***] (https://drive.google.com/drive/folders/1xVQ8Anzx18u406h4D3qyYRjM1AEtkrnr?usp=sharing "ghjks")
+1. [***Баг-репорты.Jira***](https://drive.google.com/drive/folders/1xVQ8Anzx18u406h4D3qyYRjM1AEtkrnr?usp=sharing ) :bug:
+2. [***Тест-кейсы.Qase.io***](https://drive.google.com/drive/folders/1UHy6NLLVeV5nsig67eu1KQoHqoW_n-wh?usp=sharing) :page_facing_up:
+3. [***Чек-листы.Sitechco***](https://drive.google.com/drive/folders/198u29N6ZaDnFnVYTeSt4ZI9quJuuHkB_?usp=sharing) :scroll:
+4. [***Коллекции.API.Postman***](https://drive.google.com/drive/folders/1DcZtHAYcYe4W0llaJqWbjHtRE8_eJAl3?usp=sharing):post_office:
+5. [***Confluence.Учебный проект.*** ](https://drive.google.com/drive/folders/1Fm4M-uPlLzGUZPVpWYqmis6K8GraPbN4?usp=sharing):computer:
+
+
+   Я трудолюбивый, быстро обучающийся, внимательный к деталям и открытый для сотрудничества. В случае любого интереса, пожалуйста, свяжитесь со мной:
+   
+Электронная почта Boiko891@yandex.ru
+
+Telegram: 
+  <a href="https://t.me/vtboiko">
+<img src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge"/>
+</div>
